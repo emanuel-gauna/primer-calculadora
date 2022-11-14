@@ -1,0 +1,7 @@
+1.no se podria reutilizar en caso de error tendriamos que corregir todo el archivo y en programas mas complejos seria nmas dificila encontrar un error
+
+2.
+es mas facil separar los archivos con funciones determinadas para su reutilizacion, mantentenimientos y tener un codigo mas ordenado.
+ 
+3.
+si sera la mejor experiencia para desarrollar nuestro codigo a ttravez de los modulos
